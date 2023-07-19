@@ -2,7 +2,7 @@ package javaprogramms1;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//java programms111
 public class CountDuplicateWordsClass {
 	public static void main(String[] args) {
 		String sentence = "The IT (Information Technology) industry is a rapidly evolving and dynamic "
