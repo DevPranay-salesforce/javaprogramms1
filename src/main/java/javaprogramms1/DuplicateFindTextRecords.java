@@ -2,7 +2,7 @@ package javaprogramms1;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//java programms1112
 public class DuplicateFindTextRecords {
 	public static void main(String[] args) {
 		String sentence = "This is a sentence with duplicate words in this sentence";
